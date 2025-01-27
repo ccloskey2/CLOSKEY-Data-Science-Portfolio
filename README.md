@@ -8,7 +8,7 @@
 - **Exploratory Data Analysis**
     - *Description*:
     - *Example Graphics*:
-    - *Example Link*:
+    - [*Example Link*] (https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/Predictive%20Modeling)
       
 - **Data Visualization**
    - *Description*:
