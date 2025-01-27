@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About this Portfolio
-- *Purpose*: The purporse of this portfolio is to organize and display all the data science projects I will work on throughout my semester in Introduction to Data Science (Spring 2025). These projects will include applications of exploratory data analysis, data visualization, predictive modeling, and machine learning. 
+- *Purpose*: The purpose of this portfolio is to organize and display all the data science projects I will work on throughout my semester in Introduction to Data Science (Spring 2025). These projects will include applications of exploratory data analysis, data visualization, predictive modeling, and machine learning. 
 
 
 ## Projects
