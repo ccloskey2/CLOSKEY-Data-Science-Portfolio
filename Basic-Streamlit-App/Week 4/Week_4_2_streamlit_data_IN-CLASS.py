@@ -44,11 +44,19 @@ st.dataframe(filtered_df)
 # This teaches students how to work with external data in Streamlit
 # # Ensure the "data" folder exists with the CSV file
 # Display the imported dataset
+df2 = pd.read_csv("basic-streamlit-app/data/sample_data.csv")
+st.dataframe(df2)
+
 
 # Using a selectbox to allow users to filter data by city
+salary = st.slider("Choose the salary range:", 
+                   min_value= df2["Salary"].min()
+                   max_value = df2["Salary"].max())
 # Students learn how to use widgets in Streamlit for interactivity
 
 # Filtering the DataFrame based on user selection
+st.dataframe(df2[df2['Salary'] <= salary])
+st.write(f"Salaries under {salary}:")
 
 # Display the filtered results
 # ================================
