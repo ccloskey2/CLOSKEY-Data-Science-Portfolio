@@ -5,32 +5,7 @@
 
 
 ## Projects
-- **Exploratory Data Analysis**
-    - *Description*:
-    - *Example Graphics*:
-    - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/EDA)
-      
 - **Data Visualization**
-   - *Description*:
-   - *Example Graphics*:
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/Data%20Visualization) 
-
-- **Ethical Research Design**
-   - *Description*:
-   - *Example Graphics*:
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/Ethical%20Research%20Design)
-
-- **Predictive Modeling**
-   - *Description*:
-   - *Example Graphics*:
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/Predictive%20Modeling)
-
-- **Large Language Models**
-   - *Description*:
-   - *Example Graphics*:
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/LLMs) 
-
-- **Neural Networks**
-   - *Description*:
-   - *Example Graphics*:
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/blob/main/Neural%20Networks)
+   - *Description*: These projects include both visualizations of datasets for display purporses as well as interactive datasets. Take a look in the basic     streamlit app folder to see some of the data visualization interactive dataframe projects using Streamlit I am currently working on. 
+   - *Example Graphics*: 
+   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/basic_streamlit_app) 
