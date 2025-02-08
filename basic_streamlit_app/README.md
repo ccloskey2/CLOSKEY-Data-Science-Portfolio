@@ -8,7 +8,7 @@
 1. **Clone this Repository**: Clone the repository to your local machine by running: 
    ```bash
    git clone https://github.com/ccloskey2/CLOSKEY-Data-Science-Portfolio.git
-2. **Navigate to ```basic_streamlit_app Directory**: You can can navigate to the correct directory via: 
+2. **Navigate to the Correct Directory**: You can can navigate to the correct directory via: 
    ```bash
    cd CLOSKEY-Data-Science-Portfolio/basic_streamlit_app
 3. **Install Python**: Ensure you have Python installed. If you do not, install Python by installing from [python.org](https://www.python.org/). 
