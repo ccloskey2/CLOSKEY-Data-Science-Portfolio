@@ -7,5 +7,4 @@
 ## Projects
 - **Data Visualization**
    - *Description*: These projects include both visualizations of datasets for display purporses as well as interactive datasets. Take a look in the basic     streamlit app folder to see some of the data visualization interactive dataframe projects using Streamlit I am currently working on. 
-   - *Example Graphics*: 
-   - [*Example Link*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/basic_streamlit_app) 
+   - [*Link to Basic Streamlit App Folder*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio/basic_streamlit_app) 
