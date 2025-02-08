@@ -11,7 +11,7 @@
     pip install streamlit
 3. **Navigate to the Project Folder**: Move into the basic_streamlit_app located inside CLOSKEY-Data-Science-Portfolio. You can run: 
     ```bash 
-    cd path/to/CLOSKEY-Data-Science-Portfolio/basic_streamlit_app
+    cd basic_streamlit_app
 4. **Run the Streamlit App**: Now that you are in the correct folder, you can run the Streamlit App via:
    ```bash
    streamlit run main.py 
