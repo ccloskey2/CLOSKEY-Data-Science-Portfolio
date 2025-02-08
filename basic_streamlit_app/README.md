@@ -1,4 +1,4 @@
-# **This is a basic streamlit app which reads data and has interactivity widgets in Streamlit. You can view the data and filter based on a variety of filters including dropdowns and sliders. 
+# This is a basic streamlit app which reads data and has interactivity widgets in Streamlit. You can view the data and filter based on a variety of filters including dropdowns and sliders. 
 **The current main.py page displays data and interactivity options for Palmer's Penguins. You can filter the penguins by *species*, *island*, and *flipper length*. ***
 
 ## **How to Run the App:**
