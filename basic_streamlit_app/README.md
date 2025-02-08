@@ -5,16 +5,17 @@
 **The current *main.py* page displays data and interactivity options for Palmer's Penguins. You can filter the penguins by *species*, *island*, and *flipper length*.**
 
 ## **How to Run the App:**
-1. **Install Python**: Ensure you have Python installed. If you do not, install Python by installing from python.org
-2. **Install Streamlit**: If you have not done so already, install Streamlit by running: 
+1. **Clone this Repository**: Clone the repository to your local machine. You can run:
+   ```bash
+   git clone https://github.com/ccloskey2/CLOSKEY-Data-Science-Portfolio.git
+   cd CLOSKEY-Data-Science-Portfolio. 
+2. **Install Python**: Ensure you have Python installed. If you do not, install Python by installing from python.org. 
+3. **Install Streamlit**: If you have not done so already, install Streamlit by running: 
    ```bash
     pip install streamlit
-3. **Navigate to the Project Folder**: Move into the basic_streamlit_app located inside CLOSKEY-Data-Science-Portfolio. You can run: 
-    ```bash 
-    cd basic_streamlit_app
-4. **Run the Streamlit App**: Now that you are in the correct folder, you can run the Streamlit App via:
+4. **Run the Streamlit App**: You can run the Streamlit App via:
    ```bash
-   streamlit run main.py 
-6. **Open the App in Your Browswer**: After running the command above, you can run the app in your browser. 
+   streamlit run basic_streamlit_app/main.py 
+7. **Open the App in Your Browswer**: After running the command above, you can run the app in your browser. 
 
 ## **Have Fun!!**
