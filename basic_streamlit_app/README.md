@@ -13,7 +13,7 @@
     ```bash 
     cd path/to/CLOSKEY-Data-Science-Portfolio/basic_streamlit_app
 4. **Run the Streamlit App**: Now that you are in the correct folder, you can run the Streamlit App via: 
-    ```bash streamlit run main.py
+    ```bash streamlit run main.py 
 5. **Open the App in Your Browswer**: After running the command above, you can run the app in your browser. 
 
 ## **Have Fun!!**
